@@ -1,30 +1,30 @@
-clone the repository 
+CLONE THE REPOSITORY
 
-Open Visual Studio Code editor
+1.Open Visual Studio Code editor
 
-Click on settings at the bottom left
+2.Click on settings at the bottom left
 
-Click on command palette
+3.Click on command palette
 
-Type git clone and press Enter
+4.Type git clone and press Enter
 
-Copy and paste the repository URL (https://github.com/gmsmeghana/Facerecognition_tagafriend.git) and press enter
+5.Copy and paste the repository URL (https://github.com/gmsmeghana/Facerecognition_tagafriend.git) and press enter
 
-Next it will ask to select a repository folder create a new folder / or select an exsisting empy folder.
+6.Next it will ask to select a repository folder create a new folder / or select an exsisting empy folder.
 
-Next it will start to clone the Repository after that select Open or/ go to file , select open folder and open the folder to which you have previously cloned the repository.
+7.Next it will start to clone the Repository after that select Open or/ go to file , select open folder and open the folder to which you have previously cloned the repository.
 
-Open the terminal by clicking on new terminal
+8.Open the terminal by clicking on new terminal
 
 Make sure that you are in Facerecognition_tagafriend folder. If ypu are not in that folder  type 
 
-cd Facerecognition_tagafriend
+9.cd Facerecognition_tagafriend
 
-Press Enter
+10.Press Enter
 
 To start the react app Type
 
-yarn start
+11.yarn start
 
 Next the react app opens in the browser
 
