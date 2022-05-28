@@ -30,7 +30,7 @@ Next the react app opens in the browser
 
 HOW DOES THE WEB APPLICATION WORK ?
 
-When ypu open the app you can see a home page in which to the right there is a profile 
+When you open the app you can see a home page in which to the right there is a profile 
 
 1. Click on add image 
 2. File explorer opens select a image where there are people in it 
